@@ -1,0 +1,5 @@
+{
+  "name": "ASTRIA - Automation Agent",
+  "description": "An advanced Automation & Tool-Calling AI Agent that converts natural language into structured actions using Gemini 2.5.",
+  "requestFramePermissions": []
+}
